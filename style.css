@@ -1,0 +1,75 @@
+
+*{
+margin: 0;
+border: 0;
+
+}
+
+p{
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+}
+body{
+	background-color: #000000; 
+	
+}
+
+header{
+	background-color: #35b8b0;
+	height: 80px;
+	padding: 20px;
+}
+h1{
+	color: orange;
+	text-align: center;
+	text-shadow: 1px 1px 1px #111111;
+	margin:  0 0 50px 0; 
+}
+
+img{
+	width: 60px;
+}
+footer{
+	clear: both;
+	background-color: #35b8b0;
+	height: 50px;
+	text-align: center;
+	padding: 10px 0px 0px 5px;
+}
+#principal{
+background-image: url('cidade.jpg');
+clear: both;
+min-height: 400px;
+background-size: 100%;
+padding: 80px 0 0 0;
+}
+#logo{
+float: left;
+}
+#menu{
+	float: right;
+	margin-top: 20px;
+}
+
+#menu a{
+	padding: 10px;
+
+text-decoration: none;
+color: black;
+text-shadow: 1px 1px;
+}
+#menu a:hover{
+background-color: blue;
+
+}
+
+.container{
+	width: 950px;
+	margin:0 auto;
+}
+.efeito{
+	background-color: rgba(0, 0 , 0, 0.5);
+	padding: 80px 0 80px 0;
+}
+
